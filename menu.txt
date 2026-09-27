@@ -1,0 +1,12 @@
+FOOD DELIVERY APPLICATION
+MENU MODULE
+
+Developer: Developer 3
+
+Features:
+- Display food items
+- Display item prices
+- Search menu items
+- Select food items
+
+Status: Menu module under development.

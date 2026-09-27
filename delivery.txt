@@ -1,0 +1,12 @@
+FOOD DELIVERY APPLICATION
+DELIVERY MODULE
+
+Developer: Developer 5
+
+Features:
+- Assign delivery partner
+- Track delivery status
+- Update delivery information
+- Complete delivery
+
+Status: Delivery module under development.

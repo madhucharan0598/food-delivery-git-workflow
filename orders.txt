@@ -1,0 +1,12 @@
+FOOD DELIVERY APPLICATION
+ORDER MODULE
+
+Developer: Developer 4
+
+Features:
+- Add items to order
+- Update quantity
+- Calculate total amount
+- Place order
+
+Status: Order module under development.

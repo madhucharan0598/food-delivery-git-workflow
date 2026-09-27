@@ -1,0 +1,12 @@
+FOOD DELIVERY APPLICATION
+RESTAURANT MODULE
+
+Developer: Developer 2
+
+Features:
+- Display restaurants
+- Search restaurants
+- Select restaurant
+- View restaurant information
+
+Status: Restaurant module under development.
