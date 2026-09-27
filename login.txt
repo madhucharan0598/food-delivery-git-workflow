@@ -9,4 +9,4 @@ Features:
 - Logout
 - Session management
 
-Status: Login module under development.
+Status: Login module development completed.
